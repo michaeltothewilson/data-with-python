@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Portland State University",
+    "in-state tuition": 9816,
+    "out-of-state tuition": 25260,
+    "undergrad enrollment": 15960,
+    "acceptance rate": 91
+  },
+  {
+    "name": "Reed College",
+    "in-state tuition": 67020,
+    "out-of-state tuition": 67020,
+    "undergrad enrollment": 1523,
+    "acceptance rate": 31
+  },
+  {
+    "name": "Oregon State University",
+    "in-state tuition": 12664,
+    "out-of-state tuition": 33439,
+    "undergrad enrollment": 30782,
+  },
+  {
+    "name": "Universityy of Portland",
+    "in-state tuition": 58100,
+    "out-of-state tuition": 58100,
+    "undergrad enrollment": 3136,
+    "acceptance rate": 95
+  }
+]
