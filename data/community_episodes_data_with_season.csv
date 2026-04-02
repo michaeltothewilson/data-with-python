@@ -1,0 +1,111 @@
+Season,No overall,No in season,Title,Directed by,Written by,Original air date,U S viewers (millions)
+1,1,1,"""Pilot""",Anthony Russo & Joe Russo,Dan Harmon,100,7.89
+1,2,2,"""Spanish 101""",Joe Russo,Dan Harmon,101,5.39
+1,3,3,"""Introduction to Film""",Anthony Russo,Tim Hobert & Jon Pollack,102,5.86
+1,4,4,"""Social Psychology""",Anthony Russo,Liz Cackowski,104,4.87
+1,5,5,"""Advanced Criminal Law""",Joe Russo,Andrew Guest,105,5.01
+1,6,6,"""Football, Feminism and You""",Joe Russo,Hilary Winston,103,5.04
+1,7,7,"""Introduction to Statistics""",Justin Lin,Tim Hobert & Jon Pollack,106,5.32
+1,8,8,"""Home Economics""",Anthony Russo,Lauren Pomerantz,107,5.45
+1,9,9,"""Debate 109""",Joe Russo,Tim Hobert,109,5.09
+1,10,10,"""Environmental Science""",Seth Gordon,Zach Paez,108,4.86
+1,11,11,"""The Politics of Human Sexuality""",Anthony Russo,Hilary Winston,110,5.42
+1,12,12,"""Comparative Religion""",Adam Davidson,Liz Cackowski,111,5.51
+1,13,13,"""Investigative Journalism""",Joe Russo,Jon Pollack & Tim Hobert,113,5.42
+1,14,14,"""Interpretive Dance""",Justin Lin,Lauren Pomerantz,112,4.75
+1,15,15,"""Romantic Expressionism""",Joe Russo,Andrew Guest,115,5.23
+1,16,16,"""Communication Studies""",Adam Davidson,Chris McKenna,116,5.15
+1,17,17,"""Physical Education""",Anthony Russo,Jessie Miller,118,5.02
+1,18,18,"""Basic Genealogy""",Ken Whittingham,Karey Dornetto,117,4.60
+1,19,19,"""Beginner Pottery""",Anthony Russo,Hilary Winston,114,5.07
+1,20,20,"""The Science of Illusion""",Adam Davidson,Zach Paez,122,5.07
+1,21,21,"""Contemporary American Poultry""",Tristram Shapeero,Emily Cutler & Karey Dornetto,123,3.67
+1,22,22,"""The Art of Discourse""",Adam Davidson,Chris McKenna,124,4.36
+1,23,23,"""Modern Warfare""",Justin Lin,Emily Cutler,119,4.35
+1,24,24,"""English as a Second Language""",Gail Mancuso,Tim Hobert,120,4.49
+1,25,25,"""Pascal's Triangle Revisited""",Joe Russo,Hilary Winston,121,4.43
+2,26,1,"""Anthropology 101""",Joe Russo,Chris McKenna,201,5.00
+2,27,2,"""Accounting for Lawyers""",Joe Russo,Emily Cutler,203,4.53
+2,28,3,"""The Psychology of Letting Go""",Anthony Russo,Hilary Winston,202,4.20
+2,29,4,"""Basic Rocket Science""",Anthony Russo,Andy Bobrow,204,4.81
+2,30,5,"""Messianic Myths and Ancient Peoples""",Tristram Shapeero,Andrew Guest,205,4.46
+2,31,6,"""Epidemiology""",Anthony Hemingway,Karey Dornetto,206,5.64
+2,32,7,"""Aerodynamics of Gender""",Tristram Shapeero,Adam Countee,207,4.61
+2,33,8,"""Cooperative Calligraphy""",Joe Russo,Megan Ganz,208,4.53
+2,34,9,"""Conspiracy Theories and Interior Design""",Adam Davidson,Chris McKenna,210,4.41
+2,35,10,"""Mixology Certification""",Jay Chandrasekhar,Andy Bobrow,209,4.55
+2,36,11,"""Abed's Uncontrollable Christmas""",Duke Johnson,Dino Stamatopoulos & Dan Harmon,222,4.29
+2,37,12,"""Asian Population Studies""",Anthony Russo,Emily Cutler,211,4.73
+2,38,13,"""Celebrity Pharmacology""",Fred Goss,Hilary Winston,212,4.59
+2,39,14,"""Advanced Dungeons & Dragons""",Joe Russo,Andrew Guest,214,4.37
+2,40,15,"""Early 21st Century Romanticism""",Steven Sprung,Karey Dornetto,213,3.81
+2,41,16,"""Intermediate Documentary Filmmaking""",Joe Russo,Megan Ganz,215,4.11
+2,42,17,"""Intro to Political Science""",Jay Chandrasekhar,Adam Countee,216,3.79
+2,43,18,"""Custody Law and Eastern European Diplomacy""",Anthony Russo,Andy Bobrow,217,4.15
+2,44,19,"""Critical Film Studies""",Richard Ayoade,Sona Panos,218,4.46
+2,45,20,"""Competitive Wine Tasting""",Joe Russo,Emily Cutler,219,3.49
+2,46,21,"""Paradigms of Human Memory""",Tristram Shapeero,Chris McKenna,220,3.17
+2,47,22,"""Applied Anthropology and Culinary Arts""",Jay Chandrasekhar,Karey Dornetto,221,3.35
+2,48,23,"""A Fistful of Paintballs""",Joe Russo,Andrew Guest,223,3.49
+2,49,24,"""For a Few Paintballs More""",Joe Russo,Hilary Winston,224,3.32
+3,50,1,"""Biology 101""",Anthony Russo,Garrett Donovan & Neil Goldman,301,3.93
+3,51,2,"""Geography of Global Conflict""",Joe Russo,Andy Bobrow,302,3.98
+3,52,3,"""Competitive Ecology""",Anthony Russo,Maggie Bandur,304,3.35
+3,53,4,"""Remedial Chaos Theory""",Jeff Melman,Chris McKenna,303,3.78
+3,54,5,"""Horror Fiction in Seven Spooky Steps""",Tristram Shapeero,Dan Harmon,305,3.42
+3,55,6,"""Advanced Gay""",Joe Russo,Matt Murray,306,3.84
+3,56,7,"""Studies in Modern Movement""",Tristram Shapeero,Adam Countee,307,3.49
+3,57,8,"""Documentary Filmmaking: Redux""",Joe Russo,Megan Ganz,308,3.62
+3,58,9,"""Foosball and Nocturnal Vigilantism""",Anthony Russo,Chris Kula,309,3.74
+3,59,10,"""Regional Holiday Music""",Tristram Shapeero,Steve Basilone & Annie Mebane,311,3.60
+3,60,11,"""Urban Matrimony and the Sandwich Arts""",Kyle Newacheck,Vera Santamaria,312,4.75
+3,61,12,"""Contemporary Impressionists""",Kyle Newacheck,Alex Cooley,310,3.87
+3,62,13,"""Digital Exploration of Interior Design""",Dan Eckman,Chris McKenna,313,3.48
+3,63,14,"""Pillows and Blankets""",Tristram Shapeero,Andy Bobrow,314,3.00
+3,64,15,"""Origins of Vampire Mythology""",Steven Tsuchida,Dan Harmon,315,3.09
+3,65,16,"""Virtual Systems Analysis""",Tristram Shapeero,Matt Murray,316,2.77
+3,66,17,"""Basic Lupine Urology""",Rob Schrab,Megan Ganz,317,3.21
+3,67,18,"""Course Listing Unavailable""",Tristram Shapeero,Tim Saccardo,318,3.20
+3,68,19,"""Curriculum Unavailable""",Adam Davidson,Adam Countee,319,2.99
+3,69,20,"""Digital Estate Planning""",Adam Davidson,Matt Warburton,322,2.97
+3,70,21,"""The First Chang Dynasty""",Jay Chandrasekhar,Matt Fusfeld & Alex Cuthbertson,320,2.61
+3,71,22,"""Introduction to Finality""",Tristram Shapeero,Steve Basilone & Annie Mebane,321,2.48
+4,72,1,"""History 101""",Tristram Shapeero,Andy Bobrow,401,3.88
+4,73,2,"""Paranormal Parentage""",Tristram Shapeero,Megan Ganz,403,2.76
+4,74,3,"""Conventions of Space and Time""",Michael Patrick Jann,Maggie Bandur,404,3.08
+4,75,4,"""Alternative History of the German Invasion""",Steven Tsuchida,Ben Wexler,402,2.83
+4,76,5,"""Cooperative Escapism in Familial Relations""",Tristram Shapeero,Steve Basilone & Annie Mebane,405,3.29
+4,77,6,"""Advanced Documentary Filmmaking""",Jay Chandrasekhar,Hunter Covington,408,2.58
+4,78,7,"""Economics of Marine Biology""",Tricia Brock,Tim Saccardo,406,2.95
+4,79,8,"""Herstory of Dance""",Tristram Shapeero,Jack Kukoda,407,2.32
+4,80,9,"""Intro to Felt Surrogacy""",Tristram Shapeero,Gene Hong,413,2.84
+4,81,10,"""Intro to Knots""",Tristram Shapeero,Andy Bobrow,409,3.13
+4,82,11,"""Basic Human Anatomy""",Beth McCarthy-Miller,Jim Rash,410,2.33
+4,83,12,"""Heroic Origins""","Victor Nelli, Jr.",Steve Basilone & Annie Mebane & Maggie Bandur,412,2.67
+4,84,13,"""Advanced Introduction to Finality""",Tristram Shapeero,Megan Ganz,411,3.08
+5,85,1,"""Repilot""",Tristram Shapeero,Dan Harmon & Chris McKenna,501,3.49
+5,86,2,"""Introduction to Teaching""",Jay Chandrasekhar,Andy Bobrow,502,3.49
+5,87,3,"""Basic Intergluteal Numismatics""",Tristram Shapeero,Erik Sommers,505,3.58
+5,88,4,"""Cooperative Polygraphy""",Tristram Shapeero,Alex Rubens,503,3.07
+5,89,5,"""Geothermal Escapism""",Joe Russo,Tim Saccardo,504,3.02
+5,90,6,"""Analysis of Cork-Based Networking""",Tristram Shapeero,Monica Padrick,506,3.01
+5,91,7,"""Bondage and Beta Male Sexuality""",Tristram Shapeero,Dan Guterman,507,2.56
+5,92,8,"""App Development and Condiments""",Rob Schrab,Jordan Blum & Parker Deay,508,2.79
+5,93,9,"""VCR Maintenance and Educational Publishing""",Tristram Shapeero,Donald Diego,509,2.77
+5,94,10,"""Advanced Advanced Dungeons & Dragons""",Joe Russo,Matt Roller,510,3.32
+5,95,11,"""G.I. Jeff"" ""Government Issue Jeff""",Rob Schrab,Dino Stamatopoulos,513,2.50
+5,96,12,"""Basic Story""",Jay Chandrasekhar,Carol Kolb,512,2.56
+5,97,13,"""Basic Sandwich""",Rob Schrab,Ryan Ridley,511,2.87
+6,98,1,"""Ladders""",Rob Schrab,Dan Harmon & Chris McKenna,602,nan
+6,99,2,"""Lawnmower Maintenance and Postnatal Care""",Jim Rash & Nat Faxon,Alex Rubens,601,nan
+6,100,3,"""Basic Crisis Room Decorum""",Bobcat Goldthwait,Monica Padrick,605,nan
+6,101,4,"""Queer Studies and Advanced Waxing""",Jim Rash & Nat Faxon,Matt Lawton,603,nan
+6,102,5,"""Laws of Robotics and Party Rights""",Rob Schrab,Dean Young,604,nan
+6,103,6,"""Basic Email Security""",Jay Chandrasekhar,Matt Roller,606,nan
+6,104,7,"""Advanced Safety Features""",Rob Schrab,Carol Kolb,607,nan
+6,105,8,"""Intro to Recycled Cinema""","Victor Nelli, Jr.",Clay Lapari,608,nan
+6,106,9,"""Grifting 101""",Rob Schrab,Ryan Ridley,609,nan
+6,107,10,"""Basic RV Repair and Palmistry""",Jay Chandrasekhar,Dan Guterman,610,nan
+6,108,11,"""Modern Espionage""",Rob Schrab,Mark Stegemann,611,nan
+6,109,12,"""Wedding Videography""",Adam Davidson,Briggs Hatton,612,nan
+6,110,13,"""Emotional Consequences of Broadcast Television""",Rob Schrab,Dan Harmon & Chris McKenna,613,nan
